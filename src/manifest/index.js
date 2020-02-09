@@ -28,7 +28,7 @@ const manifestInput = {
 
     content_scripts: [
         {
-            matches: ['https://*.google.com/search*', 'https://*.google.de/search*'],
+            matches: ['https://*.google.com/search*'],
             js: ['js/filter_youtube.bundle.js'],
         },
     ],

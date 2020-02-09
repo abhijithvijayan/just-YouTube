@@ -2,13 +2,20 @@
  *  @author abhijithvijayan <abhijithvijayan.in>
  */
 
-// ToDo: run only on Google Video Search
-// get search results
-const list = document.querySelectorAll('.rc .r');
+(function() {
+    const youtubeUrl = 'https://www.youtube.com';
 
-if (list.length > 0)
-    list.forEach(entry => {
-        if (entry.firstChild.origin !== 'https://www.youtube.com') {
-            entry.parentNode.style.display = 'none';
+    // get search results
+    const list = document.querySelectorAll('.rc .r');
+
+    // Test at: https://regex101.com/r/dxeCFd/1
+    if (/\btbm=vid\b/i.test(window.location.search)) {
+        if (list.length > 0) {
+            list.forEach(entry => {
+                if (entry.firstChild.origin !== youtubeUrl) {
+                    entry.parentNode.style.display = 'none';
+                }
+            });
         }
-    });
+    }
+})();
