@@ -1,5 +1,16 @@
 <h1 align="center">💻 just-YouTube</h1>
 <p align="center">Extension to show only YouTube results in Google Videos Search based on <b>Levelsio's <a href="https://twitter.com/levelsio/status/1226061048060334080" target="_blank">Tweet</a></b></p>
+<div align="center">
+  <a href="https://travis-ci.com/abhijithvijayan/just-YouTube">
+    <img src="https://travis-ci.com/abhijithvijayan/just-YouTube.svg?branch=master" alt="Travis Build" />
+  </a>
+  <a href="https://github.com/abhijithvijayan/just-YouTube/releases/latest">
+    <img src="https://img.shields.io/github/release/abhijithvijayan/just-YouTube.svg?colorB=blue" alt="Releases" />
+  </a>
+  <a href="https://github.com/abhijithvijayan/just-YouTube/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/abhijithvijayan/just-YouTube.svg" alt="LICENSE" />
+  </a>
+</div>
 <h3 align="center">🙋‍♂️ Made by <a href="https://twitter.com/_abhijithv">@abhijithvijayan</a></h3>
 <p align="center">
   Donate:
