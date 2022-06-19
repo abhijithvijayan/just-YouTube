@@ -24,7 +24,7 @@
 </p>
 <hr />
 
-❤️ it? ⭐️ it on [GitHub](github.com/abhijithvijayan/just-YouTube/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20just-YouTube%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fjust-YouTube%0A%0A%23chrome%20%23google%20%23search%20%23youtube%20%23firefox%20%23javascript) about it.
+❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/just-YouTube/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20just-YouTube%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fjust-YouTube%0A%0A%23chrome%20%23google%20%23search%20%23youtube%20%23firefox%20%23javascript) about it.
 
 ## Browser Support
 
@@ -70,14 +70,14 @@ In order to install this extension from Chrome Web Store, another opera extensio
 
 ## Issues
 
-_Looking to contribute? Look for the [Good First Issue](github.com/abhijithvijayan/just-YouTube/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22)
+_Looking to contribute? Look for the [Good First Issue](https://github.com/abhijithvijayan/just-YouTube/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22)
 label._
 
 ### 🐛 Bugs
 
-Please file an issue [here](github.com/abhijithvijayan/just-YouTube/issues/new) for bugs, missing documentation, or unexpected behavior.
+Please file an issue [here](https://github.com/abhijithvijayan/just-YouTube/issues/new) for bugs, missing documentation, or unexpected behavior.
 
-[**See Bugs**](github.com/abhijithvijayan/just-YouTube/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22type%3A+bug%22)
+[**See Bugs**](https://github.com/abhijithvijayan/just-YouTube/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22type%3A+bug%22)
 
 ### Linting Config
 
