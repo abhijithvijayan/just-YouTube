@@ -1,14 +1,14 @@
 <h1 align="center">💻 just-YouTube</h1>
 <p align="center">Extension to show only YouTube results in Google Videos Search based on <b>Levelsio's <a href="https://twitter.com/levelsio/status/1226061048060334080" target="_blank">Tweet</a></b></p>
 <div align="center">
-  <a href="https://travis-ci.com/abhijithvijayan/just-YouTube">
-    <img src="https://travis-ci.com/abhijithvijayan/just-YouTube.svg?branch=master" alt="Travis Build" />
-  </a>
   <a href="https://github.com/abhijithvijayan/just-YouTube/releases/latest">
     <img src="https://img.shields.io/github/release/abhijithvijayan/just-YouTube.svg?colorB=blue" alt="Releases" />
   </a>
   <a href="https://github.com/abhijithvijayan/just-YouTube/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/abhijithvijayan/just-YouTube.svg" alt="LICENSE" />
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20just-YouTube%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fjust-YouTube%0A%0A%23chrome%20%23google%20%23search%20%23youtube%20%23firefox%20%23javascript">
+     <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="TWEET" />
   </a>
 </div>
 <h3 align="center">🙋‍♂️ Made by <a href="https://twitter.com/_abhijithv">@abhijithvijayan</a></h3>
@@ -24,80 +24,65 @@
 </p>
 <hr />
 
-![demo](demo.png)
+❤️ it? ⭐️ it on [GitHub](github.com/abhijithvijayan/just-YouTube/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20just-YouTube%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fjust-YouTube%0A%0A%23chrome%20%23google%20%23search%20%23youtube%20%23firefox%20%23javascript) about it.
 
 ## Browser Support
 
-| [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](/) | [![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](/) | [![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)](/) | [![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](/) | [![Yandex](https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png)](/) | [![Brave](https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png)](/) | [![vivaldi](https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png)](/) |
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 49 & later ✔ | 52 & later ✔ | 36 & later ✔ | 79 & later ✔ | Latest ✔ | Latest ✔ | Latest ✔
+| [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh) | [![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](https://addons.mozilla.org/firefox/addon/just-youtube/) | [![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)](#for-opera) | [![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh) | [![Yandex](https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png)](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh) | [![Brave](https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png)](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh) | [![vivaldi](https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png)](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 88 & later ✔                                                                                                                                                              | 52 & later ✔ | 74 & later ✔                                                                                                      | 88 & later ✔                                                                                                                                                        | Latest ✔ | Latest ✔ | Latest ✔
 
-##  Download for browser(s)
+![demo](demo.png)
 
-  - Firefox: [just YouTube :: Add-ons for Firefox](https://addons.mozilla.org/firefox/addon/just-youtube/)
-  - Other Browsers: [Download from releases](https://github.com/abhijithvijayan/just-YouTube/releases)
+## Table of Contents
 
-## Template
+- [Installation](#installation)
+- [🚀 Quick Start](#🚀-quick-start)
+- [Issues](#issues)
+  - [🐛 Bugs](#-bugs)
+- [LICENSE](#license)
 
-- [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter)
+## Installation
+
+### Download for browser(s)
+
+- Chrome: [just-YouTube :: Chrome Web Store](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh)
+- Firefox: [just-YouTube :: Add-ons for Firefox](https://addons.mozilla.org/firefox/addon/just-youtube/)
+- Opera [just-YouTube :: Opera addons](#for-opera)
+- Edge: [just-YouTube :: Chrome Web Store](https://chrome.google.com/webstore/detail/olkdooiamjknhokmihlikgjigcilbahh)
+
+#### For Opera
+
+In order to install this extension from Chrome Web Store, another opera extension called **Install Chrome Extension** should be installed first.
+
+- [Opera addon :: Install Chrome Extension](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)
 
 ## 🚀 Quick Start
 
-Ensure you have 
-- [Node.js](https://nodejs.org) 10 or later installed
-- [Yarn](https://yarnpkg.com) v1 or v2 installed
-
-Then run the following:
 - `yarn install` to install dependencies.
-- `yarn run dev:chrome` to start the development server for chrome extension
-- `yarn run dev:firefox` to start the development server for firefox addon
-- `yarn run dev:opera` to start the development server for opera extension
-- `yarn run build:chrome` to build chrome extension
-- `yarn run build:firefox` to build firefox addon
-- `yarn run build:opera` to build opera extension
-- `yarn run build` builds and packs extensions all at once to extension/ directory
+- `yarn run dev:chrome` to start the development server for chrome extension.
+- `yarn run dev:firefox` to start the development server for firefox addon.
+- `yarn run dev:opera` to start the development server for opera extension.
+- `yarn run build:chrome` to build chrome extension.
+- `yarn run build:firefox` to build firefox addon.
+- `yarn run build:opera` to build opera extension.
+- `yarn run build` builds and packs extensions all at once to extension/ directory.
 
-### Development
+## Issues
 
-- `yarn install` to install dependencies.
-- To watch file changes in developement
+_Looking to contribute? Look for the [Good First Issue](github.com/abhijithvijayan/just-YouTube/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22)
+label._
 
-  - Chrome
-    - `yarn run dev:chrome`
-  - Firefox
-    - `yarn run dev:firefox`
-  - Opera
-    - `yarn run dev:opera`
+### 🐛 Bugs
 
-- **Load extension in browser**
+Please file an issue [here](github.com/abhijithvijayan/just-YouTube/issues/new) for bugs, missing documentation, or unexpected behavior.
 
-  - ### Chrome
+[**See Bugs**](github.com/abhijithvijayan/just-YouTube/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22type%3A+bug%22)
 
-    - Go to the browser address bar and type `chrome://extensions`
-    - Check the `Developer Mode` button to enable it.
-    - Click on the `Load Unpacked Extension…` button.
-    - Select your extension’s extracted directory.
+### Linting Config
 
-  - ### Firefox
+- Shared Eslint & Prettier Configuration - [`@abhijithvijayan/eslint-config`](https://www.npmjs.com/package/@abhijithvijayan/eslint-config)
 
-    - Load the Add-on via `about:debugging` as temporary Add-on.
-    - Choose the `manifest.json` file in the extracted directory
+## License
 
-  - ### Opera
-
-    - Load the extension via `opera:extensions`
-    - Check the `Developer Mode` and load as unpacked from extension’s extracted directory.
-   
-
-### Production
-
-- `yarn run build` builds the extension for all the browsers to `extension/BROWSER` directory respectively.
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## Licence
-
-Code released under the [MIT License](LICENSE).
-
+MIT © [Abhijith Vijayan](https://abhijithvijayan.in)
