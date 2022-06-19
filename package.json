@@ -1,6 +1,6 @@
 {
   "name": "just-youtube",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Extension to show only YouTube results in Google Videos Search",
   "private": true,
   "repository": "https://github.com/abhijithvijayan/just-YouTube.git",
